@@ -1,0 +1,16 @@
+Castle Fight uses assets from MegaGlest, licensed under CC BY-SA 3.0 Unported.
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Upstream source:
+https://github.com/MegaGlest/megaglest-data/tree/f5ab4c1dedcc4568f784ed5ebbcec96290fd4456
+
+- Tech and Magic units, Tech castle and Magic mage tower: The Glest Team
+  and The MegaGlest Team. See AUTHORS.data.txt for the original credit notices.
+- Romans gladiator: Jacob Vejvoda (ElimNator), credited for the Romans faction.
+- Evergreen broadleaf tree (baum2), pine (tanne) and rock (stone3):
+  Titus Tscharntke (titi), credited for the Evergreen tileset.
+
+Castle Fight converted the G3D models to glTF, scaled them for its battlefield,
+retimed their vertex animation and adapted the materials for Godot, including
+team colors and foliage transparency. The adapted assets are offered under
+CC BY-SA 3.0 Unported. The upstream author list and license are included here.
