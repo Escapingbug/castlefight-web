@@ -14,3 +14,22 @@ Castle Fight converted the G3D models to glTF, scaled them for its battlefield,
 retimed their vertex animation and adapted the materials for Godot, including
 team colors and foliage transparency. The adapted assets are offered under
 CC BY-SA 3.0 Unported. The upstream author list and license are included here.
+
+Sound effects in sounds/ come from the same upstream revision. Credits go to
+The Glest Team and The MegaGlest Team and the contributors in AUTHORS.data.txt.
+Original paths are relative to the upstream repository:
+
+- data/core/menu/sound/: attention, click_a, click_d, highlight.
+- techs/megapack/commondata/sounds/: archer_attack1, archer_attack2, arrow_hit2,
+  catapult_attack2, catapult_hit1, golem_attack1, golem_hit1, guard_attack2,
+  shaman_heal1, summoner_summon1, swordman_attack1, swordman_attack2.
+- techs/megapack/factions/magic/units/battlemage/sounds/: battlemage_attack1,
+  battlemage_attack2, battlemage_hit1.
+- techs/megapack/factions/tech/units/battle_machine/sounds/: machine_attack1,
+  machine_attack2.
+- techs/megapack/factions/tech/units/ornithopter/sounds/: orni_hit1.
+
+Castle Fight converted archer_attack1 to mono 16-bit WAV at 22050 Hz and
+lowered its gain. It excerpted the releases in catapult_attack2, golem_attack1
+and machine_attack2, faded the cut edges and raised the catapult release gain.
+The adapted sound effects are offered under CC BY-SA 3.0 Unported.
