@@ -1,6 +1,7 @@
-Castle Fight CJK is a subset of Noto Sans SC by The Noto Project Authors.
+Castle Fight CJK is a subset of Noto Sans SC 2.004 by The Noto Project Authors.
 The original font is © 2014–2021 Adobe, with Reserved Font Name ‘Source’.
-The subset embeds the characters used by the Simplified Chinese catalog and
-uses weight 500. It is distributed under the SIL Open Font License 1.1.
-Source: https://github.com/notofonts/noto-cjk/tree/main/Sans/Variable/TTF/Subset
+The subset uses weight 500 and includes GBK glyphs present in the source
+font, along with punctuation and characters used by the game's interface.
+It is distributed under the SIL Open Font License 1.1.
+Source: https://github.com/notofonts/noto-cjk/blob/Sans2.004/Sans/Variable/TTF/Subset/NotoSansSC-VF.ttf
 See OFL.txt for the license.
