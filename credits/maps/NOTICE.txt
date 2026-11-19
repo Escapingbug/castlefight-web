@@ -1,0 +1,3 @@
+wayfarer_world.jpg is a resized JPEG of example_map_0.png from "simple map tiles" by MELLE, released under CC0 1.0.
+Source: https://opengameart.org/content/simple-map-tiles
+License: https://creativecommons.org/publicdomain/zero/1.0/
