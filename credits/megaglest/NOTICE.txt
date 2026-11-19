@@ -15,6 +15,19 @@ retimed their vertex animation and adapted the materials for Godot, including
 team colors and foliage transparency. The adapted assets are offered under
 CC BY-SA 3.0 Unported. The upstream author list and license are included here.
 
+Additional projectile models from the same revision:
+
+- techs/megapack/factions/tech/units/archer/models/archer_arrow.g3d
+- techs/megapack/factions/tech/units/battle_machine/models/battle_machine_arrow.g3d
+- techs/megapack/factions/magic/units/golem/models/stone_model.g3d and texture_stone.png
+
+Castle Fight converted the models to glTF. It also converted the luminance of
+techs/megapack/factions/tech/units/archer/images/archer_particle.bmp into the
+alpha channel of projectile_particle.png. The relevant spell, stone and arrow
+particle textures in the source pack are byte-identical. These assets are
+credited to The Glest Team and The MegaGlest Team and are distributed under
+CC BY-SA 3.0 Unported.
+
 Sound effects in sounds/ come from the same upstream revision. Credits go to
 The Glest Team and The MegaGlest Team and the contributors in AUTHORS.data.txt.
 Original paths are relative to the upstream repository:
