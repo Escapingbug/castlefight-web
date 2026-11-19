@@ -2,7 +2,7 @@
 
 [在浏览器中试玩 · Play in your browser](https://escapingbug.github.io/castlefight-web/)
 
-The browser build includes single-player practice.
+The browser build includes Castle Fight’s 15-wave single-player survival mode and Ashfall Survivors.
 
 ## Credits
 
