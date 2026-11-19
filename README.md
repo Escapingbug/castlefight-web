@@ -11,3 +11,4 @@ The browser build includes Castle Fight’s 15-wave single-player survival mode,
 - [Godot 4.7.2](credits/godot/LICENSE.txt) · [Godot and third-party copyright notices](credits/godot/COPYRIGHT.txt)
 
 - [Fantasy map by MELLE (CC0)](credits/maps/NOTICE.txt)
+- [Effekseer combat effects (CC0)](credits/effekseer/NOTICE.txt)

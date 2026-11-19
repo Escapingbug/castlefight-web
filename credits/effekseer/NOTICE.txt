@@ -1,0 +1,45 @@
+Effekseer combat animations for Ashfall Survivors
+License: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+
+The PNG sheets are offline renders of original Effekseer samples. The effects
+were exported with Effekseer 1.80.8, captured at 30 FPS, and cropped and packed
+into 128 × 128 cells, eight cells per row. Projectile and loot loops use
+repeated or reversed source frames. No engine plug-in is required to play
+the resulting PNG sheets.
+
+Upstream sources and original effect names:
+
+tktk, first contribution
+https://effekseer.github.io/en/contributes/tktk01/index.html
+https://effekseer.github.io/contributes/tktk01.zip
+  pierce_bolt.png   Sword6.efkproj
+  enemy_bolt.png    Sword3.efkproj
+  pierce_hit.png    Blow4.efkproj
+  blast.png         Fire3.efkproj
+  pickup.png        Cure1.efkproj
+
+tktk, second contribution
+https://effekseer.github.io/en/contributes/tktk02/index.html
+https://effekseer.github.io/contributes/tktk02.zip
+  bolt.png          Light1.efkproj
+  ember_bolt.png    Fire4.efkproj
+  claw.png          Claw1.efkproj
+
+MAGICAL X SPIRAL
+https://effekseer.github.io/en/contributes/MAGICALxSPIRAL/index.html
+https://effekseer.github.io/contributes/MAGICALxSPIRAL.zip
+  frost_bolt.png    Icicle1.efkproj
+  frost_hit.png     IcicleBroken.efkproj
+
+Pierre, first contribution
+https://effekseer.github.io/en/contributes/Pierre01/index.html
+https://effekseer.github.io/contributes/Pierre01_130.zip
+  slam.png          SonicBoom.efkproj
+
+Effekseer 1.80.8 bundled CC0 samples (see Sample/readme.txt in the editor zip)
+https://github.com/effekseer/Effekseer/releases/tag/1808
+  hit.png           Sample/02_Tktk03/ToonHit.efkefc (tktk)
+  shield.png        Sample/00_Version16/Barrior01.efkefc
+  slash.png         Sample/00_Basic/Simple_Ribbon_Sword.efkefc
+  blast_ring.png    Sample/00_Basic/Simple_Ring_Shape1.efkefc
+  loot.png          Sample/00_Basic/Simple_Ring_Shape1.efkefc
