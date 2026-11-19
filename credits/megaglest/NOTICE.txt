@@ -77,3 +77,25 @@ for the Norsemen icons.
 - icons/firegolem_attack.png: techs/megapack/factions/indian/units/fire_golem/images/firegolem_attack.bmp
 - icons/ice_nova.png: techs/megapack/factions/magic/units/archmage/images/archmage_ice_nova.bmp
 - icons/bless_of_minerva.png: techs/megapack/factions/romans/upgrades/bless_of_minerva/images/bless.bmp
+
+Ember Ruins uses the following additional MegaGlest Magic faction icons from
+the same revision. Original BMPs converted to PNG without redrawing. Existing
+icon files shared by multiple skills retain the credits listed above.
+
+- icons/ember_breath.png: techs/megapack/factions/magic/units/dragon_rider/images/fire_breath_attack.bmp
+- icons/ember_flare.png: techs/megapack/factions/magic/units/dragon_rider/images/flare_attack.bmp
+- icons/ember_flame_claw.png: techs/megapack/factions/magic/units/dragon/images/dragon_attack.bmp
+- icons/ember_brand_blade.png: techs/megapack/factions/magic/units/daemon/images/daemon_attack.bmp
+- icons/ember_cinder_sword.png: techs/megapack/factions/magic/units/ghost_armor/images/ghost_armor_attack.bmp
+- icons/ember_melt_spike.png: techs/megapack/factions/magic/units/behemoth/images/behemoth_attack.bmp
+- icons/ember_flame_shield.png: techs/megapack/factions/magic/units/archmage/images/magic_hold.bmp
+- icons/ember_cinder_armor.png: techs/megapack/factions/magic/units/summoner/images/summoner_armor.bmp
+- icons/ember_reforge.png: techs/megapack/factions/magic/units/initiate/images/initiate_repair.bmp
+- icons/ember_searing_eye.png: techs/megapack/factions/magic/upgrades/energy_sharpening/images/energy_sharpening.bmp
+- icons/ember_devour_flame.png: techs/megapack/factions/magic/units/summoner/images/summoner_daemon.bmp
+- icons/ember_living_fire.png: techs/megapack/factions/magic/units/energy_source/images/energy_source.bmp
+- icons/ember_dragonflame.png: techs/megapack/factions/magic/upgrades/dragon_call/images/dragon_call.bmp
+- icons/ember_ember_pact.png: techs/megapack/factions/magic/upgrades/ancient_summoning/images/ancient_summoning.bmp
+- icons/ember_molten_core.png: techs/megapack/factions/magic/upgrades/golem_power/images/golem_power.bmp
+- icons/ember_inferno_gate.png: techs/megapack/factions/magic/upgrades/hell_gate/images/hell_gate.bmp
+- icons/ember_dragon_soul.png: techs/megapack/factions/magic/units/summoner/images/summoner_dragon.bmp
