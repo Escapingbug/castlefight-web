@@ -46,3 +46,34 @@ Castle Fight converted archer_attack1 to mono 16-bit WAV at 22050 Hz and
 lowered its gain. It excerpted the releases in catapult_attack2, golem_attack1
 and machine_attack2, faded the cut edges and raised the catapult release gain.
 The adapted sound effects are offered under CC BY-SA 3.0 Unported.
+
+Hero skill HUD icons from the same revision, credited to The Glest Team and
+The MegaGlest Team under CC BY-SA 3.0 Unported. Castle Fight converted each
+original 64×64 BMP to PNG and assigned it to a hero skill.
+
+- techs/megapack/factions/tech/units/archer/images/archer_attack.bmp
+- techs/megapack/factions/tech/units/guard/images/guard_attack.bmp
+- techs/megapack/factions/magic/units/archmage/images/archmage_static_fire.bmp
+- techs/megapack/factions/magic/units/golem/images/golem_attack.bmp
+
+Additional Trial HUD icons were converted from BMP to PNG without redrawing.
+The original MegaGlest data credits and CC BY-SA 3.0 terms apply. See
+AUTHORS.data.txt for the faction and contributor credits, including Gameboy
+for the Norsemen icons.
+
+- icons/priest_heal.png: techs/megapack/factions/egypt/units/priest/images/heal.bmp
+- icons/swordman_attack.png: techs/megapack/factions/tech/units/swordman/images/swordman_attack.bmp
+- icons/stone.png: techs/megapack/resources/stone/images/stone.bmp
+- icons/mistletree.png: techs/megapack/factions/norsemen/units/mistletoe_tree/images/mistletree.bmp
+- icons/blade_weapons.png: techs/megapack/factions/tech/upgrades/blade_weapons/images/blade.bmp
+- icons/fire_bolt.png: techs/megapack/factions/magic/units/battlemage/images/battlemage_fire_bolt.bmp
+- icons/piercing_weapons.png: techs/megapack/factions/tech/upgrades/piercing_weapons/images/piercing.bmp
+- icons/shield_level_1.png: techs/megapack/factions/tech/upgrades/shield_level_1/images/shield1.bmp
+- icons/energy_compression.png: techs/megapack/factions/magic/upgrades/energy_compression/images/energy_compression.bmp
+- icons/faster_movement.png: techs/megapack/factions/magic/upgrades/faster_movement/images/faster_movement.bmp
+- icons/shaman_heal.png: techs/megapack/factions/indian/units/shaman/images/shaman_heal.bmp
+- icons/norse_arrow.png: techs/megapack/factions/norsemen/upgrades/arrow/images/arrow.bmp
+- icons/shield_level_2.png: techs/megapack/factions/tech/upgrades/shield_level_2/images/shield2.bmp
+- icons/firegolem_attack.png: techs/megapack/factions/indian/units/fire_golem/images/firegolem_attack.bmp
+- icons/ice_nova.png: techs/megapack/factions/magic/units/archmage/images/archmage_ice_nova.bmp
+- icons/bless_of_minerva.png: techs/megapack/factions/romans/upgrades/bless_of_minerva/images/bless.bmp
