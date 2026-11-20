@@ -1,0 +1,5 @@
+Scimitar model by Pixor
+Source: https://pixor.art/library/weapons/scimitar/
+License: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+
+The original GLB is used for the Orbiting Blade in Ashfall Survivors.

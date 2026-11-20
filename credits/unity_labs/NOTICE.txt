@@ -1,0 +1,21 @@
+Explosion01 by Thomas Iché, Unity Labs Paris
+License: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
+Source: https://unity.com/blog/engine-platform/free-vfx-image-sequences-flipbooks
+Original archive: https://unity3d.com/files/labs/downloads/vfx/assets01/Explosion01/Explosion01-flipbooks.zip
+
+Explosion01_5x5.tga was converted to PNG and resized to 1020 × 1020 so
+the five-by-five grid has integer-sized frames. The source frame order and
+alpha channel are preserved.
+
+Additional flipbooks by Thomas Iché, Unity Labs Paris (CC0 1.0):
+
+  fire_core.png     FireBall01_8x8.tga
+  fire_wake.png     FireBall02_8x8.tga
+  ground_flame.png  Flame02_16x4.tga
+  curling_smoke.png DiscSmoke01_16x4.tga
+  wispy_smoke.png   WispySmoke01_8x8.tga
+
+The PNG sheets retain every other source frame in an 8 × 4 grid. Frames
+were resized individually. The RGB fireball renders were converted from
+black-backed luminance to straight alpha. All other sheets retain source
+alpha.

@@ -43,3 +43,12 @@ https://github.com/effekseer/Effekseer/releases/tag/1808
   slash.png         Sample/00_Basic/Simple_Ribbon_Sword.efkefc
   blast_ring.png    Sample/00_Basic/Simple_Ring_Shape1.efkefc
   loot.png          Sample/00_Basic/Simple_Ring_Shape1.efkefc
+
+Additional textures derived from the contributions above:
+
+  arc_lightning.png MAGICAL X SPIRAL, Texture/Thunder3.png through Thunder6.png
+  light_streak.png  MAGICAL X SPIRAL, Texture/Thunder1.png
+  blade_sweep.png   tktk, second contribution, Parts/Shock_wave002.png
+
+Luminance became transparent coverage. The arc variants are packed as a
+four-frame strip. The sweep uses a feathered crop of the original ring.
