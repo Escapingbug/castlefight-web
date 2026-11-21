@@ -99,3 +99,59 @@ icon files shared by multiple skills retain the credits listed above.
 - icons/ember_molten_core.png: techs/megapack/factions/magic/upgrades/golem_power/images/golem_power.bmp
 - icons/ember_inferno_gate.png: techs/megapack/factions/magic/upgrades/hell_gate/images/hell_gate.bmp
 - icons/ember_dragon_soul.png: techs/megapack/factions/magic/units/summoner/images/summoner_dragon.bmp
+
+The game modes share additional Megapack particle presets from the same
+revision under CC BY-SA 3.0 Unported. The Tech and Magic presets are credited
+to The Glest Team and The MegaGlest Team. The Egypt preset is credited to
+Titus Tscharntke and the Indian preset to Titus and Philipp Tscharntke.
+Paths below are relative to techs/megapack/factions.
+
+- particles/arrow.tscn: tech/units/archer/particle_proj.xml
+- particles/ballista.tscn: tech/units/battle_machine/particle_proj.xml
+- particles/bolt.tscn and bolt_impact.tscn: magic/units/battlemage/particle_proj.xml and particle_splash.xml
+- particles/fire.tscn and fire_impact.tscn: magic/units/archmage/particle_proj2.xml and fire_splash.xml
+- particles/frost.tscn and frost_impact.tscn: magic/units/archmage/particle_proj.xml and particle_splash.xml
+- particles/initiate.tscn: magic/units/initiate/particle_proj.xml
+- particles/stone_impact.tscn: tech/units/battle_machine/particle_splash.xml
+- particles/catapult.tscn and catapult_impact.tscn: tech/units/catapult/particle_proj.xml and particle_splash.xml
+- particles/golem.tscn and golem_impact.tscn: magic/units/golem/particle_proj.xml and particle_splash.xml
+- particles/summoner.tscn and summoner_impact.tscn: magic/units/summoner/particle_proj.xml and particle_splash.xml
+- particles/heal_impact.tscn: egypt/units/snake/particle_splash.xml
+- particles/flame.tscn: indian/units/campfire/fire_particles.xml
+
+Glest Mapcraft converted these XML emitters to Godot CPU particle scenes.
+The shared particle mask, color and size endpoints, and flight path types
+come from the original recipes. Emission counts, lifetimes, spread, gravity,
+and some trajectory amplitudes were adapted to the arena camera and pacing.
+The adapted scenes are offered under CC BY-SA 3.0 Unported.
+
+terrain/autumn_stone.png is tilesets/autumn/textures/surface4a.bmp converted
+to PNG. Autumn is credited to Titus Tscharntke (titi). The texture follows the
+same MegaGlest data license.
+
+Shared client art from the same revision:
+
+- terrain/autumn_grass.png, autumn_gravel.png and autumn_water.png use
+  tilesets/autumn/textures/surface1a.bmp, surface3a.bmp and water_001.tga.
+  Autumn is credited to Titus Tscharntke (titi).
+- autumn_reed.gltf and texture_autumn_reed.png use the reed model and its
+  texture from tilesets/autumn/models/. The G3D was converted to glTF and scaled.
+- terrain/winter_ground.png uses tilesets/winter/textures/surface1a.bmp.
+- terrain/timber.png uses techs/megapack/factions/romans/units/ballista/models/wood.png.
+  See AUTHORS.data.txt for the Romans faction credits.
+- maps/around_the_lake.png renders maps/around_the_lake.mgm, by Philipp
+  Tscharntke, using the original map height and surface data and Autumn tiles.
+- icons/megaglest_app.png is the MegaGlest project icon from others/icons/megaglest.png.
+  icons/megaglest_splash.png is the same icon enlarged with nearest-neighbor sampling.
+- sounds/archmage_attack1.wav and archmage_hit1.wav are the original spell sounds
+  from techs/megapack/commondata/sounds/.
+
+The source textures were converted to PNG where needed. The map preview was
+generated from the upstream tiles and map cells. The art and sound above are
+distributed under the MegaGlest data license described in this notice.
+
+The proportional face of WenQuanYi Zen Hei in data/core/fonts/wqy-zenhei.ttc
+was repackaged as fonts/wqy-zenhei.woff2. The font retains its separate GPL v2
+license with font embedding exception. See fonts/UPSTREAM-COPYRIGHTS.txt and
+fonts/GPL-2.0.txt. The original font file and the import script are available
+at the pinned MegaGlest revision above and tools/convert_megaglest_client_art.py.

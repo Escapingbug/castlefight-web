@@ -1,18 +1,13 @@
-# Castle Battle
+# Glest Mapcraft · 格莱斯特战图
 
 [在浏览器中试玩 · Play in your browser](https://escapingbug.github.io/castlefight-web/)
 
-The browser build includes Castle Fight’s 15-wave single-player survival mode, Solo Survival Mode (单人生存模式), and Wayfarer’s Trials (行旅试炼), with hero selection, PvE dungeons, and portable text saves.
+The browser build includes Castle Fight’s 15-wave single-player defense, Solo Survival Mode (单人生存模式), Wayfarer’s Trials (行旅试炼), and Foundry Rush (工坊竞速).
 
-Solo Survival Mode (单人生存模式) uses new fire, smoke, projectile, impact, and melee effects.
+The client uses official MegaGlest art and audio for models, projectiles, particles, terrain, maps, icons, and sound. The interface uses the WenQuanYi Zen Hei font bundled by MegaGlest.
 
 ## Credits
 
 - [MegaGlest assets and adaptations](credits/megaglest/NOTICE.txt) · [Contributors](credits/megaglest/AUTHORS.data.txt) · [CC BY-SA 3.0](credits/megaglest/LICENSE.data.txt)
-- [Castle Fight CJK](credits/fonts/NOTICE.txt) · [SIL Open Font License 1.1](credits/fonts/OFL.txt)
+- [WenQuanYi Zen Hei and upstream font notices](credits/megaglest/fonts/UPSTREAM-COPYRIGHTS.txt) · [GPL v2](credits/megaglest/fonts/GPL-2.0.txt)
 - [Godot 4.7.2](credits/godot/LICENSE.txt) · [Godot and third-party copyright notices](credits/godot/COPYRIGHT.txt)
-
-- [Fantasy map by MELLE (CC0)](credits/maps/NOTICE.txt)
-- [Effekseer combat effects (CC0)](credits/effekseer/NOTICE.txt)
-- [Unity Labs fire and smoke flipbooks (CC0)](credits/unity_labs/NOTICE.txt)
-- [Pixor scimitar model (CC0)](credits/pixor/NOTICE.txt)
