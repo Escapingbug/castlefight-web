@@ -1,4 +1,4 @@
-Effekseer combat animations for Ashfall Survivors
+Effekseer combat animations for Solo Survival Mode
 License: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/)
 
 The PNG sheets are offline renders of original Effekseer samples. The effects

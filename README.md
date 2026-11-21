@@ -2,9 +2,9 @@
 
 [在浏览器中试玩 · Play in your browser](https://escapingbug.github.io/castlefight-web/)
 
-The browser build includes Castle Fight’s 15-wave single-player survival mode, Ashfall Survivors, and Wayfarer’s Trials (行旅试炼), with hero selection, PvE dungeons, and portable text saves.
+The browser build includes Castle Fight’s 15-wave single-player survival mode, Solo Survival Mode (单人生存模式), and Wayfarer’s Trials (行旅试炼), with hero selection, PvE dungeons, and portable text saves.
 
-Ashfall Survivors uses new fire, smoke, projectile, impact, and melee effects.
+Solo Survival Mode (单人生存模式) uses new fire, smoke, projectile, impact, and melee effects.
 
 ## Credits
 
