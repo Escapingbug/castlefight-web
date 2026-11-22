@@ -150,6 +150,17 @@ The source textures were converted to PNG where needed. The map preview was
 generated from the upstream tiles and map cells. The art and sound above are
 distributed under the MegaGlest data license described in this notice.
 
+Foundry Rush uses these models and their original textures from the same revision:
+
+- energy_source.gltf: techs/megapack/factions/magic/units/energy_source/models/energy_source.g3d
+- foundry_farm.gltf: techs/megapack/factions/tech/units/farm/models/farm.g3d
+- foundry_smith.gltf: techs/megapack/factions/tech/units/blacksmith/models/blacksmith.g3d
+- autumn_obelisk.gltf: tilesets/autumn/models/obelisk.g3d
+
+G3D geometry was converted to glTF with the original PNG textures. The mode
+positions and scales the models for its courtyards. Run the repository's
+convert_megaglest.py with --foundry-art-only to regenerate these files.
+
 The proportional face of WenQuanYi Zen Hei in data/core/fonts/wqy-zenhei.ttc
 was repackaged as fonts/wqy-zenhei.woff2. The font retains its separate GPL v2
 license with font embedding exception. See fonts/UPSTREAM-COPYRIGHTS.txt and
